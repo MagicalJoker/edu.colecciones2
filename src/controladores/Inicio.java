@@ -3,8 +3,20 @@ package controladores;
 import java.util.HashSet;
 import java.util.Set;
 
+/**
+ * @author jmormez
+ * @date 08/02/2025
+ * Puerta de entrada a mi aplicación
+ */
 public class Inicio {
 
+	
+	/**
+	 * @author jmormez
+	 * @date 09/02/2025
+	 * @param parametros de configuración
+	 * Clase controladora de mi proyecto
+	 */
 	public static void main(String[] args) {
 		boolean agregado;
 		 // Crear un conjunto
