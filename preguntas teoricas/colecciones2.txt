@@ -1,0 +1,5 @@
+1.- ¿Por qué los elementos duplicados no se agregan en un Set?
+	Un Set en Java es una colección que no permite elementos duplicados.
+
+2.- ¿Cómo se comporta el orden de los elementos en un Set?
+	El orden en el cual los elementos son devueltos por un iterador es generalmente indeterminado.
